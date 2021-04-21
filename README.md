@@ -1,5 +1,9 @@
 ### Hi, I'm Nursat 👋
 
+[![Twitter: KakonNursat](https://img.shields.io/twitter/follow/KakonNursat?style=social)](https://twitter.com/KakonNursat)
+[![Linkedin: nursatkakon](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nursatkakon/)](https://www.linkedin.com/in/nursatkakon/)
+[![GitHub nursatkakon](https://img.shields.io/github/followers/nursatkakon?label=follow&style=social)](https://github.com/nursatkakon)
+
 
 
 
