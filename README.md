@@ -1,8 +1,9 @@
 ### Hi, I'm Nursat 👋
 
 [![Twitter: KakonNursat](https://img.shields.io/twitter/follow/KakonNursat?style=social)](https://twitter.com/KakonNursat)
-[![Linkedin: nursatkakon](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nursatkakon/)](https://www.linkedin.com/in/nursatkakon/)
+[![Linkedin: nursatkakon](https://img.shields.io/badge/-nursatkakon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nursatkakon/)](https://www.linkedin.com/in/nursatkakon/)
 [![GitHub nursatkakon](https://img.shields.io/github/followers/nursatkakon?label=follow&style=social)](https://github.com/nursatkakon)
+
 
 🔭 I’m currently working on [Python](https://www.python.org/). <br>
 🌱 I’m currently learning more about Deep Learning. <br>
