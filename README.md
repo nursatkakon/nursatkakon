@@ -8,7 +8,7 @@
 🔭 I’m currently working on [Python](https://www.python.org/). <br>
 🌱 I’m currently learning more about Deep Learning. <br>
 👯 I’m looking to collaborate on [Kaggle](https://www.kaggle.com/nursatkakon). <br>
-💬 Ask me about Python, R, STATA or any tech related stuff. <br>
+💬 Ask me about Python, SQL, R, STATA or any tech related stuff. <br>
 📫 How to reach me: [LinkedIn /nursatkakon](https://www.linkedin.com/in/nursatkakon/), [Twitter @KakonNursat](https://twitter.com/KakonNursat)<br>
 
 
